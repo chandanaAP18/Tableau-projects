@@ -1,0 +1,221 @@
+Employee_ID,Name,Gender,Age,Department,Role,City,State,Region,Latitude,Longitude,Salary_INR,Years_of_Experience,Performance_Score,Attrition,Joining_Date,Training_Hours
+EMP0001,Priya Sharma,Male,39,Sales,Sales Executive,Davanagere,Karnataka,South,14.42376952398616,75.89506608933908,68500,12,3.5,Yes,2018-12-23,87
+EMP0002,Bhavna Sharma,Male,37,Marketing,SEO Specialist,Bengaluru,Karnataka,South,12.997480736712976,77.56056593163768,77900,12,3.9,No,2023-01-14,64
+EMP0003,Bhavna Patel,Male,29,HR,Recruiter,Pune,Maharashtra,West,18.54337317866938,73.86032280914547,48500,4,4.0,No,2021-11-09,58
+EMP0004,Manoj Mehta,Male,38,Marketing,Content Writer,Mumbai,Maharashtra,West,19.124522152066078,72.91323177210153,78900,14,3.9,No,2018-10-12,120
+EMP0005,Kavya Singh,Male,31,Operations,Logistics Head,Mumbai,Maharashtra,West,19.042340249376192,72.86564554417576,59000,8,3.8,No,2018-10-20,91
+EMP0006,Bhavna Desai,Female,32,Marketing,SEO Specialist,Mysuru,Karnataka,South,12.285916478702232,76.59601886052116,72300,11,4.1,No,2018-08-18,82
+EMP0007,Vikram Singh,Female,36,HR,Recruiter,Mysuru,Karnataka,South,12.32029889820916,76.64329772896673,65200,11,2.3,Yes,2023-02-23,105
+EMP0008,Rahul Patel,Male,35,Operations,Supply Chain Analyst,Lucknow,Uttar Pradesh,North,26.882810290966663,80.91148413193483,56900,7,4.4,No,2019-07-21,30
+EMP0009,Lavanya Kumar,Female,23,Operations,Supply Chain Analyst,Davanagere,Karnataka,South,14.482571036902657,75.92549703304088,47300,2,1.8,Yes,2023-12-08,44
+EMP0010,Amit Kumar,Female,28,HR,HR Executive,Davanagere,Karnataka,South,14.501451856983676,75.90164447914486,52100,5,5.0,Yes,2018-01-14,91
+EMP0011,Nisha Sharma,Male,29,Marketing,SEO Specialist,Jaipur,Rajasthan,North,26.873586772532093,75.7735980767181,57100,3,3.6,No,2023-12-13,116
+EMP0012,Manoj Shah,Male,26,Technology,Software Engineer,Chennai,Tamil Nadu,South,13.1092834429307,80.23353914644998,87300,4,2.6,No,2018-12-17,70
+EMP0013,Lavanya Pillai,Female,36,Technology,DevOps Engineer,Jaipur,Rajasthan,North,26.90621000839145,75.78905758410356,97900,9,3.1,No,2020-04-03,25
+EMP0014,Aarav Reddy,Male,30,Technology,Software Engineer,Hyderabad,Telangana,South,17.405784094654848,78.44258737668763,82300,6,3.7,No,2020-07-31,18
+EMP0015,Riya Menon,Male,30,Finance,Accountant,Bengaluru,Karnataka,South,13.002349699776666,77.56364099143619,62400,2,3.6,No,2019-06-26,22
+EMP0016,Anil Desai,Male,28,Operations,Logistics Head,Davanagere,Karnataka,South,14.49445925108617,75.88272690322448,57700,7,4.5,No,2018-08-10,34
+EMP0017,Priya Shah,Male,25,Marketing,Brand Manager,Hyderabad,Telangana,South,17.418602758507998,78.53359962572847,57900,3,3.8,No,2018-11-05,106
+EMP0018,Anil Sharma,Male,31,Technology,Tech Lead,Hyderabad,Telangana,South,17.433530884377973,78.46322030581722,93900,8,4.2,No,2022-07-01,110
+EMP0019,Swathi Desai,Male,33,HR,Payroll Specialist,Ahmedabad,Gujarat,West,22.978216527290748,72.57981775944589,68100,12,3.1,No,2020-06-10,74
+EMP0020,Lavanya Singh,Male,31,Technology,Software Engineer,Jaipur,Rajasthan,North,26.90277755513183,75.83145961272291,89300,9,2.8,No,2018-10-08,82
+EMP0021,Riya Rao,Female,36,Marketing,Marketing Executive,Hyderabad,Telangana,South,17.374578584679128,78.503869022296,66300,10,2.7,No,2020-12-04,48
+EMP0022,Amit Rao,Male,25,HR,HR Executive,Ahmedabad,Gujarat,West,22.98574565703665,72.55630088349645,44500,1,4.0,No,2019-02-14,18
+EMP0023,Chitra Kumar,Male,28,HR,HR Manager,Hyderabad,Telangana,South,17.428893000392712,78.45012911143934,48200,3,4.0,No,2023-12-07,24
+EMP0024,Lavanya Rao,Female,27,Delivery,Dispatch Coordinator,Mumbai,Maharashtra,West,19.0765409058098,72.852812125207,35500,3,2.6,No,2020-05-12,118
+EMP0025,Kavya Bhat,Female,42,Sales,Sales Lead,Bengaluru,Karnataka,South,12.977690686477475,77.55578738805893,72500,14,4.1,Yes,2020-12-08,98
+EMP0026,Priya Mehta,Male,37,Marketing,Marketing Executive,Delhi,Delhi,North,28.600365151532728,77.25230880105207,79000,14,3.7,No,2019-08-30,120
+EMP0027,Chitra Singh,Male,34,HR,Recruiter,Bengaluru,Karnataka,South,13.008060569621996,77.6422206032931,61100,11,3.2,No,2022-07-23,113
+EMP0028,Anjali Kumar,Female,28,Operations,Operations Executive,Delhi,Delhi,North,28.602154172259695,77.16287246076658,48400,3,2.9,No,2022-08-14,70
+EMP0029,Arjun Reddy,Male,32,Technology,Tech Lead,Hyderabad,Telangana,South,17.431688910404837,78.46461249927219,87000,6,4.1,No,2020-03-02,92
+EMP0030,Harish Rao,Male,36,Operations,Supply Chain Analyst,Jaipur,Rajasthan,North,26.88025678161725,75.83355343157616,73800,14,2.2,Yes,2021-09-18,43
+EMP0031,Arjun Patel,Male,30,Sales,Sales Lead,Bengaluru,Karnataka,South,12.992478528383417,77.54476912782187,57100,6,1.6,Yes,2019-04-19,113
+EMP0032,Lavanya Kumar,Female,38,Delivery,Dispatch Coordinator,Jaipur,Rajasthan,North,26.934375426301397,75.76733222682113,52200,12,4.3,No,2018-10-14,49
+EMP0033,Anil Shah,Female,32,Operations,Logistics Head,Davanagere,Karnataka,South,14.497772516930405,75.90218749492684,55800,7,3.1,No,2022-04-02,36
+EMP0034,Bhavna Iyer,Female,38,Finance,Finance Manager,Kolkata,West Bengal,East,22.588485074499843,88.3422786404993,75300,10,3.3,No,2022-12-17,94
+EMP0035,Nisha Hegde,Male,26,Marketing,Content Writer,Davanagere,Karnataka,South,14.499373769462473,75.87908282291846,52800,2,3.3,No,2018-04-11,63
+EMP0036,Harish Kumar,Female,33,Marketing,SEO Specialist,Davanagere,Karnataka,South,14.492242040676732,75.89368411368123,75300,12,3.1,No,2020-09-26,112
+EMP0037,Manoj Verma,Male,27,Marketing,Brand Manager,Mysuru,Karnataka,South,12.307065232276177,76.66132739612759,56100,1,3.5,No,2023-03-19,74
+EMP0038,Manoj Singh,Male,33,Finance,Finance Manager,Kolkata,West Bengal,East,22.606586288784193,88.34163113531308,68600,8,4.9,No,2023-04-29,109
+EMP0039,Vikram Nair,Female,26,Operations,Supply Chain Analyst,Jaipur,Rajasthan,North,26.885526147972822,75.80669498122991,49500,4,2.5,No,2021-10-07,100
+EMP0040,Girish Bhat,Male,31,Sales,Sales Lead,Hyderabad,Telangana,South,17.373947681266696,78.51367957723147,59400,7,3.9,No,2022-08-31,99
+EMP0041,Nisha Singh,Male,31,Finance,Finance Manager,Bengaluru,Karnataka,South,12.948893531176326,77.59316419937986,71800,7,4.2,No,2022-09-13,59
+EMP0042,Chitra Gupta,Female,34,Delivery,Dispatch Coordinator,Pune,Maharashtra,West,18.52958927756279,73.87299997568363,57600,13,3.5,No,2023-03-30,20
+EMP0043,Manoj Gupta,Female,40,Operations,Operations Executive,Davanagere,Karnataka,South,14.44222566156388,75.96692041198607,72600,14,3.7,No,2023-02-06,63
+EMP0044,Rajesh Reddy,Female,32,Finance,Finance Analyst,Chennai,Tamil Nadu,South,13.110823304961091,80.2858754655244,66300,8,4.0,No,2018-08-02,106
+EMP0045,Suresh Rao,Male,38,Technology,Data Analyst,Bengaluru,Karnataka,South,12.998289809835624,77.56137891433679,98300,14,3.1,No,2019-04-14,87
+EMP0046,Chitra Mehta,Male,34,Delivery,Delivery Executive,Mysuru,Karnataka,South,12.303379672841242,76.68020261510473,53700,13,3.1,No,2019-03-19,58
+EMP0047,Bhavna Choudhary,Male,24,Delivery,Delivery Executive,Kolkata,West Bengal,East,22.600863534636105,88.34862037653085,38700,2,3.1,Yes,2021-05-20,64
+EMP0048,Pooja Pillai,Male,31,HR,HR Executive,Davanagere,Karnataka,South,14.477958510610144,75.95467073110025,58600,9,2.6,Yes,2022-09-17,100
+EMP0049,Girish Choudhary,Male,39,Operations,Operations Executive,Delhi,Delhi,North,28.590739553804923,77.24417131600194,69500,12,4.0,No,2023-06-04,116
+EMP0050,Nisha Desai,Female,25,HR,Payroll Specialist,Mumbai,Maharashtra,West,19.04418398571577,72.84891198501798,50600,4,3.4,No,2022-04-02,112
+EMP0051,Swathi Bhat,Male,39,HR,HR Manager,Chennai,Tamil Nadu,South,13.081557784684879,80.29651646534825,74800,15,3.3,Yes,2020-02-22,98
+EMP0052,Anil Singh,Female,32,Delivery,Dispatch Coordinator,Ahmedabad,Gujarat,West,23.00312060301301,72.57955555853323,48300,8,3.0,No,2019-01-17,70
+EMP0053,Swathi Joshi,Female,29,Marketing,Content Writer,Jaipur,Rajasthan,North,26.8939547944006,75.81158810636391,68000,7,3.0,No,2020-10-26,107
+EMP0054,Sneha Joshi,Male,29,Technology,Data Analyst,Mysuru,Karnataka,South,12.275424646326515,76.62548810691493,85900,4,4.5,No,2023-11-19,48
+EMP0055,Pallavi Sharma,Male,25,Delivery,Dispatch Coordinator,Bengaluru,Karnataka,South,12.979006421962634,77.59153969449305,35500,3,3.7,No,2019-06-02,66
+EMP0056,Rahul Choudhary,Male,33,Technology,Software Engineer,Pune,Maharashtra,West,18.5333445706952,73.81206090742926,87800,5,3.6,Yes,2018-09-25,29
+EMP0057,Suresh Verma,Male,31,HR,HR Executive,Lucknow,Uttar Pradesh,North,26.826435313251736,80.95505251387212,44900,4,2.8,No,2020-07-13,64
+EMP0058,Lavanya Reddy,Female,35,Marketing,Marketing Executive,Chennai,Tamil Nadu,South,13.04840570933809,80.23808135483264,66600,10,3.2,No,2020-05-01,19
+EMP0059,Lavanya Singh,Male,30,Sales,Sales Lead,Delhi,Delhi,North,28.656291104448258,77.23778280266468,65700,8,3.3,No,2021-03-04,90
+EMP0060,Rahul Patel,Female,30,Delivery,Delivery Executive,Lucknow,Uttar Pradesh,North,26.81329227892207,80.92696118126143,40900,7,3.5,No,2019-09-03,105
+EMP0061,Suresh Reddy,Male,30,HR,Payroll Specialist,Lucknow,Uttar Pradesh,North,26.85650366620411,80.98514228892925,46700,2,3.1,No,2023-08-12,104
+EMP0062,Manoj Iyer,Female,22,Marketing,Content Writer,Pune,Maharashtra,West,18.517450082325162,73.87185094894338,48500,1,2.5,No,2018-03-26,45
+EMP0063,Rohan Bhat,Male,34,Marketing,Brand Manager,Delhi,Delhi,North,28.633267367398343,77.18782177953615,75100,11,4.3,No,2021-08-08,61
+EMP0064,Lavanya Shah,Male,23,Sales,Sales Lead,Jaipur,Rajasthan,North,26.908597634498214,75.74272040853768,49200,2,3.3,No,2019-04-20,76
+EMP0065,Sneha Sharma,Male,39,Marketing,Brand Manager,Pune,Maharashtra,West,18.567714681582167,73.8675871667082,74200,11,3.5,No,2021-03-25,40
+EMP0066,Suresh Kumar,Female,31,Technology,DevOps Engineer,Mysuru,Karnataka,South,12.310570968878375,76.60479711244282,88200,9,3.0,No,2019-01-17,101
+EMP0067,Pallavi Reddy,Female,30,Marketing,Content Writer,Chennai,Tamil Nadu,South,13.060324740282205,80.29970061820032,66900,7,4.0,No,2022-04-21,63
+EMP0068,Pallavi Nair,Male,33,Finance,Finance Manager,Pune,Maharashtra,West,18.51505473930432,73.85513413855517,60000,5,3.4,No,2021-05-07,52
+EMP0069,Riya Bhat,Male,34,Finance,Finance Manager,Jaipur,Rajasthan,North,26.866764729909733,75.81177051515652,71500,7,4.8,No,2020-09-05,100
+EMP0070,Pallavi Kumar,Female,39,Operations,Supply Chain Analyst,Kolkata,West Bengal,East,22.610019037405433,88.35793062097707,65500,13,2.9,No,2018-06-01,77
+EMP0071,Pallavi Shah,Male,33,Sales,Sales Manager,Ahmedabad,Gujarat,West,23.010500939752266,72.55306611539334,56500,7,4.6,No,2022-06-17,101
+EMP0072,Pooja Kumar,Female,23,Finance,Finance Manager,Ahmedabad,Gujarat,West,23.048536969299427,72.5917890829329,53100,1,4.1,No,2021-03-23,22
+EMP0073,Riya Mishra,Male,38,Technology,DevOps Engineer,Ahmedabad,Gujarat,West,23.01370517489756,72.58958003713526,100500,15,4.7,No,2022-03-16,33
+EMP0074,Riya Verma,Male,33,Technology,Software Engineer,Delhi,Delhi,North,28.627690463100357,77.20495704991768,96300,10,3.9,No,2020-09-13,95
+EMP0075,Rajesh Bhat,Male,40,Finance,Accountant,Bengaluru,Karnataka,South,12.990631351246014,77.59028358126677,84700,15,3.3,No,2021-11-16,48
+EMP0076,Sanjay Mehta,Male,27,Operations,Logistics Head,Hyderabad,Telangana,South,17.337193959785957,78.51970375614928,44900,2,3.1,No,2022-01-10,60
+EMP0077,Riya Joshi,Male,41,Sales,Sales Executive,Chennai,Tamil Nadu,South,13.09478911631303,80.28847644586234,79900,15,3.5,No,2020-07-31,102
+EMP0078,Priya Choudhary,Female,39,Delivery,Delivery Executive,Davanagere,Karnataka,South,14.450886123302846,75.88494118064206,48600,11,2.2,Yes,2018-06-11,47
+EMP0079,Girish Iyer,Male,28,Delivery,Fleet Manager,Pune,Maharashtra,West,18.496097008456324,73.88916898125424,34300,3,4.1,No,2023-12-15,71
+EMP0080,Pallavi Gupta,Female,37,Delivery,Fleet Manager,Chennai,Tamil Nadu,South,13.129426974730004,80.30115876440206,52900,13,4.1,No,2018-11-05,56
+EMP0081,Girish Pillai,Male,28,Finance,Accountant,Mumbai,Maharashtra,West,19.036834610219923,72.85108219022116,56300,1,2.7,No,2020-12-09,13
+EMP0082,Rajesh Bhat,Male,40,Marketing,Content Writer,Lucknow,Uttar Pradesh,North,26.808367593672703,80.90073468110134,85000,15,3.3,No,2018-09-16,14
+EMP0083,Harish Bhat,Male,25,Operations,Operations Executive,Chennai,Tamil Nadu,South,13.098192189749348,80.30406930832963,44800,2,3.8,No,2022-09-13,88
+EMP0084,Sneha Pillai,Female,38,HR,HR Executive,Kolkata,West Bengal,East,22.577046586148217,88.41168425294521,65100,12,3.3,No,2022-12-27,55
+EMP0085,Priya Desai,Male,25,Operations,Logistics Head,Bengaluru,Karnataka,South,12.945956889716403,77.55719238853081,47000,4,4.7,Yes,2020-05-18,82
+EMP0086,Bhavna Hegde,Female,33,Sales,Sales Manager,Hyderabad,Telangana,South,17.335283555148003,78.52254061263801,63500,10,3.1,No,2020-08-12,28
+EMP0087,Aarav Iyer,Female,39,Marketing,Content Writer,Delhi,Delhi,North,28.5904367508325,77.17167585437129,73900,13,4.6,Yes,2022-01-07,63
+EMP0088,Suresh Mishra,Male,30,Sales,Sales Executive,Jaipur,Rajasthan,North,26.88455497564183,75.79881068362845,63300,8,4.4,No,2023-10-04,103
+EMP0089,Rahul Reddy,Male,36,Marketing,Content Writer,Davanagere,Karnataka,South,14.446611181974632,75.88663338256605,61500,8,4.2,No,2019-03-19,26
+EMP0090,Sneha Kumar,Male,34,Marketing,Content Writer,Chennai,Tamil Nadu,South,13.117979273729558,80.28579166648814,68800,7,3.8,No,2023-02-02,108
+EMP0091,Rohan Bhat,Male,29,Delivery,Delivery Executive,Jaipur,Rajasthan,North,26.89365235711419,75.76278897964828,46400,7,4.1,No,2022-06-22,29
+EMP0092,Kavya Patel,Female,25,Operations,Operations Executive,Davanagere,Karnataka,South,14.473046508273947,75.92795864139921,42400,2,3.0,Yes,2019-01-31,52
+EMP0093,Deepak Mishra,Female,28,Sales,Sales Lead,Davanagere,Karnataka,South,14.435673880567201,75.93747363029883,58900,6,4.3,No,2021-07-03,38
+EMP0094,Shruti Rao,Male,23,HR,HR Manager,Mumbai,Maharashtra,West,19.028895318106127,72.85502703887127,43600,2,2.7,No,2022-10-24,107
+EMP0095,Swathi Mishra,Male,23,HR,HR Manager,Chennai,Tamil Nadu,South,13.054213288003352,80.26268324937645,40000,1,4.1,No,2019-08-05,53
+EMP0096,Anjali Hegde,Male,35,HR,HR Manager,Delhi,Delhi,North,28.568876249243296,77.16715815275319,64300,12,2.8,No,2018-12-14,66
+EMP0097,Meera Choudhary,Male,32,Operations,Logistics Head,Davanagere,Karnataka,South,14.463063275336424,75.93851325587364,64200,10,3.1,No,2021-11-14,15
+EMP0098,Meera Desai,Female,26,Operations,Supply Chain Analyst,Hyderabad,Telangana,South,17.346998434370555,78.48643853286133,39100,1,3.8,No,2020-05-15,65
+EMP0099,Pallavi Patel,Male,36,Technology,Tech Lead,Delhi,Delhi,North,28.60752195955123,77.20497542503563,91800,9,2.2,Yes,2021-12-21,19
+EMP0100,Anil Sharma,Female,32,Marketing,Brand Manager,Pune,Maharashtra,West,18.56701996910331,73.82388731805781,71600,10,3.5,No,2022-09-07,89
+EMP0101,Anil Mehta,Male,37,Finance,Finance Manager,Ahmedabad,Gujarat,West,23.04708048264646,72.54355720588943,85900,15,4.6,No,2022-06-29,109
+EMP0102,Riya Kumar,Female,32,Sales,Sales Executive,Delhi,Delhi,North,28.57854442182777,77.17872718028241,66400,9,4.2,No,2021-12-02,87
+EMP0103,Pallavi Desai,Male,28,Finance,Finance Manager,Delhi,Delhi,North,28.57899574013931,77.16582862584958,56900,2,4.4,No,2023-01-13,66
+EMP0104,Suresh Patel,Female,38,HR,HR Manager,Davanagere,Karnataka,South,14.420089005083394,75.95496966316632,55900,10,3.2,No,2018-10-31,19
+EMP0105,Rohan Hegde,Male,34,Finance,Finance Analyst,Davanagere,Karnataka,South,14.461962902794307,75.88688610766957,79700,10,2.7,No,2018-06-18,17
+EMP0106,Sanjay Verma,Male,36,Sales,Account Manager,Ahmedabad,Gujarat,West,23.07159860226469,72.57380685531702,65400,12,3.5,No,2019-12-08,88
+EMP0107,Rohan Kumar,Female,37,HR,HR Manager,Delhi,Delhi,North,28.61969632124184,77.19765642047237,69600,15,2.6,No,2018-08-03,42
+EMP0108,Chitra Pillai,Male,38,Finance,Finance Manager,Mysuru,Karnataka,South,12.276823173755181,76.6550054718036,89900,15,4.3,No,2021-09-27,94
+EMP0109,Amit Pillai,Male,32,Technology,Software Engineer,Kolkata,West Bengal,East,22.524423053779156,88.34478660700638,89200,5,2.6,No,2023-11-27,37
+EMP0110,Pallavi Kumar,Male,29,Finance,Accountant,Pune,Maharashtra,West,18.521168971272463,73.86067707584137,61700,4,4.4,No,2019-09-27,104
+EMP0111,Pooja Pillai,Male,36,Sales,Account Manager,Jaipur,Rajasthan,North,26.930036292218855,75.7610530201447,72100,15,3.2,No,2019-11-10,66
+EMP0112,Lavanya Choudhary,Female,30,HR,Payroll Specialist,Lucknow,Uttar Pradesh,North,26.895143979353158,80.9423679978441,51700,4,3.3,No,2023-04-06,46
+EMP0113,Sanjay Mishra,Female,25,Marketing,Brand Manager,Kolkata,West Bengal,East,22.60771660480848,88.34240630140593,54300,3,3.6,No,2023-05-23,107
+EMP0114,Girish Verma,Male,39,HR,Payroll Specialist,Delhi,Delhi,North,28.6523629773718,77.25204719271262,73400,15,3.1,Yes,2022-11-27,63
+EMP0115,Bhavna Nair,Male,32,Operations,Supply Chain Analyst,Bengaluru,Karnataka,South,12.935359958772588,77.57328793973133,52900,6,3.3,No,2021-07-29,116
+EMP0116,Arjun Joshi,Male,34,Delivery,Delivery Executive,Ahmedabad,Gujarat,West,23.05599630992824,72.57628042454438,58700,13,3.7,No,2018-01-22,103
+EMP0117,Girish Menon,Male,24,Marketing,Brand Manager,Lucknow,Uttar Pradesh,North,26.85637390428189,80.89784353522059,53700,2,3.5,No,2023-02-16,75
+EMP0118,Anjali Reddy,Female,32,Technology,Data Analyst,Lucknow,Uttar Pradesh,North,26.849048455767818,80.9322603757707,87000,5,3.9,Yes,2021-12-16,77
+EMP0119,Divya Singh,Female,29,Marketing,Marketing Executive,Jaipur,Rajasthan,North,26.935694102145067,75.80012569624756,66700,7,4.2,No,2018-03-08,108
+EMP0120,Sanjay Menon,Female,31,Delivery,Fleet Manager,Lucknow,Uttar Pradesh,North,26.859873584775833,80.97734976818477,31700,3,3.7,No,2021-10-18,18
+EMP0121,Girish Shah,Female,28,Finance,Accountant,Mysuru,Karnataka,South,12.293139976767684,76.59306207715369,56800,1,3.9,No,2021-07-16,92
+EMP0122,Bhavna Pillai,Female,36,HR,HR Manager,Hyderabad,Telangana,South,17.378695138312494,78.47670217746445,63800,14,4.7,No,2021-09-21,66
+EMP0123,Pooja Hegde,Male,30,HR,Recruiter,Kolkata,West Bengal,East,22.622109816484407,88.33194564859382,59200,8,2.7,No,2018-12-05,47
+EMP0124,Divya Verma,Female,34,Sales,Sales Executive,Pune,Maharashtra,West,18.474635516285012,73.89370371750564,56800,6,4.4,No,2022-10-12,55
+EMP0125,Pallavi Hegde,Male,34,Operations,Logistics Head,Lucknow,Uttar Pradesh,North,26.864508887199545,80.94001728249401,59900,11,4.4,No,2019-10-18,26
+EMP0126,Lavanya Verma,Male,29,Technology,DevOps Engineer,Mumbai,Maharashtra,West,19.120882352926557,72.86490133784707,88300,6,4.0,No,2018-05-13,107
+EMP0127,Nisha Mishra,Male,32,Marketing,SEO Specialist,Mumbai,Maharashtra,West,19.064698738003926,72.88386727107597,69000,9,2.7,No,2019-04-10,43
+EMP0128,Vikram Reddy,Female,26,Delivery,Fleet Manager,Chennai,Tamil Nadu,South,13.077904268524541,80.31056790307863,37700,4,4.1,No,2023-07-05,66
+EMP0129,Sanjay Iyer,Female,37,Finance,Finance Manager,Mumbai,Maharashtra,West,19.105369638384502,72.87857557451744,83200,14,3.0,No,2021-04-04,25
+EMP0130,Shruti Reddy,Male,27,Finance,Finance Analyst,Hyderabad,Telangana,South,17.341574810526737,78.47651599807709,66100,4,2.5,Yes,2022-02-20,101
+EMP0131,Lavanya Mishra,Male,35,Operations,Supply Chain Analyst,Mysuru,Karnataka,South,12.28025147807027,76.67719601516504,57700,7,3.6,No,2018-10-31,109
+EMP0132,Meera Iyer,Male,26,Delivery,Dispatch Coordinator,Jaipur,Rajasthan,North,26.87859669595559,75.83077378366391,33100,3,3.3,No,2018-08-15,38
+EMP0133,Amit Iyer,Female,36,Marketing,Content Writer,Pune,Maharashtra,West,18.529580844531658,73.86476465011403,74300,14,3.5,No,2019-05-28,31
+EMP0134,Rajesh Choudhary,Male,35,Marketing,Content Writer,Davanagere,Karnataka,South,14.440865590783305,75.8928808379702,82200,14,4.5,Yes,2018-04-27,83
+EMP0135,Rahul Patel,Female,36,Marketing,Marketing Executive,Kolkata,West Bengal,East,22.538408044701523,88.35546217462141,69900,8,3.1,No,2022-07-22,69
+EMP0136,Manoj Pillai,Male,29,HR,Recruiter,Hyderabad,Telangana,South,17.386498013408225,78.4473183933609,52200,6,5.0,No,2021-11-15,40
+EMP0137,Girish Desai,Female,31,Sales,Account Manager,Ahmedabad,Gujarat,West,23.065875153524942,72.5935128428822,60100,8,3.6,No,2022-09-09,34
+EMP0138,Anil Mishra,Male,30,Operations,Supply Chain Analyst,Delhi,Delhi,North,28.609623064218972,77.18307286406692,61200,8,3.7,No,2023-07-31,84
+EMP0139,Pallavi Kumar,Female,26,Sales,Sales Executive,Pune,Maharashtra,West,18.513492776934754,73.89494557309186,58100,5,2.4,Yes,2023-04-12,103
+EMP0140,Rahul Gupta,Female,31,Finance,Accountant,Pune,Maharashtra,West,18.52082555291232,73.88314041147073,62700,6,2.7,No,2020-03-08,45
+EMP0141,Manoj Nair,Male,28,Delivery,Dispatch Coordinator,Lucknow,Uttar Pradesh,North,26.816605788155243,80.94711225162253,31100,2,4.2,No,2021-10-20,74
+EMP0142,Shruti Mishra,Male,26,Sales,Sales Executive,Bengaluru,Karnataka,South,12.935578098577237,77.637736873553,51500,3,3.4,No,2023-10-29,50
+EMP0143,Nisha Sharma,Male,37,Operations,Supply Chain Analyst,Delhi,Delhi,North,28.60073578098658,77.22638063924731,65900,12,2.8,No,2023-06-30,63
+EMP0144,Anjali Mishra,Male,38,HR,HR Executive,Lucknow,Uttar Pradesh,North,26.859602524114536,80.95817358055011,62800,10,3.0,No,2020-07-21,117
+EMP0145,Pooja Joshi,Male,24,Technology,Data Analyst,Kolkata,West Bengal,East,22.563637740932272,88.39139723018071,81400,1,3.8,Yes,2021-07-08,70
+EMP0146,Rohan Iyer,Male,39,Delivery,Delivery Executive,Mysuru,Karnataka,South,12.29176635320196,76.64271270645732,51300,12,3.4,No,2021-08-24,79
+EMP0147,Manoj Mehta,Female,36,Delivery,Dispatch Coordinator,Pune,Maharashtra,West,18.540890093683657,73.87572399115636,51300,11,3.1,No,2021-05-07,72
+EMP0148,Manoj Nair,Male,35,Operations,Logistics Head,Pune,Maharashtra,West,18.49944526519929,73.83546303416142,59500,9,3.2,No,2022-04-05,101
+EMP0149,Vikram Kumar,Male,36,HR,Payroll Specialist,Mumbai,Maharashtra,West,19.08756770344145,72.88638304985709,61200,11,3.5,No,2021-01-15,41
+EMP0150,Sneha Nair,Female,32,Delivery,Dispatch Coordinator,Bengaluru,Karnataka,South,12.922118144640713,77.59963525657795,36800,4,3.0,Yes,2022-08-20,30
+EMP0151,Kavya Patel,Male,32,Delivery,Fleet Manager,Kolkata,West Bengal,East,22.613922972566986,88.3314064775481,44300,8,3.5,No,2018-08-31,117
+EMP0152,Meera Choudhary,Male,34,Sales,Sales Lead,Delhi,Delhi,North,28.62417829655059,77.2518454846017,74100,13,2.9,No,2021-03-31,52
+EMP0153,Kiran Kumar,Male,34,Operations,Supply Chain Analyst,Chennai,Tamil Nadu,South,13.06576840968318,80.29381192338089,63600,9,1.8,Yes,2023-08-28,92
+EMP0154,Girish Bhat,Female,28,Delivery,Delivery Executive,Chennai,Tamil Nadu,South,13.08422806589598,80.22937377698484,32500,1,3.6,No,2020-03-02,95
+EMP0155,Meera Choudhary,Female,34,Technology,Data Analyst,Mumbai,Maharashtra,West,19.0982882528401,72.82884357341942,91300,8,3.6,No,2023-01-04,93
+EMP0156,Sanjay Kumar,Male,26,Delivery,Delivery Executive,Pune,Maharashtra,West,18.534271132519937,73.90076356237459,28900,1,3.5,No,2019-10-17,57
+EMP0157,Manoj Shah,Male,31,Technology,Data Analyst,Lucknow,Uttar Pradesh,North,26.876899499178002,80.97876035090864,83800,3,4.2,No,2022-08-31,107
+EMP0158,Chitra Choudhary,Female,36,Delivery,Dispatch Coordinator,Hyderabad,Telangana,South,17.34622087915373,78.51957740539584,54300,14,4.5,No,2023-12-04,74
+EMP0159,Bhavna Patel,Male,31,Marketing,SEO Specialist,Hyderabad,Telangana,South,17.38034323001798,78.48802478432016,56400,3,4.0,No,2023-06-26,68
+EMP0160,Swathi Joshi,Female,32,Sales,Sales Lead,Lucknow,Uttar Pradesh,North,26.8545311265059,80.90072898027279,67000,11,2.9,No,2022-06-10,54
+EMP0161,Divya Gupta,Female,42,Sales,Sales Executive,Mysuru,Karnataka,South,12.290653713266268,76.68111150766816,71100,15,4.3,No,2020-01-08,58
+EMP0162,Swathi Singh,Male,34,Sales,Sales Manager,Kolkata,West Bengal,East,22.606082161166874,88.38951794148589,67700,11,3.4,Yes,2022-05-29,48
+EMP0163,Vikram Rao,Male,35,Delivery,Dispatch Coordinator,Ahmedabad,Gujarat,West,22.991348045123676,72.60892081746238,49900,9,2.2,Yes,2020-10-10,107
+EMP0164,Suresh Hegde,Male,31,Sales,Sales Lead,Mumbai,Maharashtra,West,19.093202363687222,72.91492124177864,60300,10,3.2,No,2018-10-03,41
+EMP0165,Riya Choudhary,Female,33,Sales,Sales Lead,Mysuru,Karnataka,South,12.277690369636918,76.64919176742772,59800,8,2.4,Yes,2018-08-20,96
+EMP0166,Meera Rao,Female,42,Technology,DevOps Engineer,Pune,Maharashtra,West,18.476495763710673,73.90155202550268,102300,15,3.2,No,2023-11-06,104
+EMP0167,Sanjay Bhat,Male,33,Delivery,Dispatch Coordinator,Delhi,Delhi,North,28.60472591768296,77.18898884944355,48100,7,1.6,Yes,2022-04-11,33
+EMP0168,Kavya Bhat,Male,35,Operations,Operations Executive,Jaipur,Rajasthan,North,26.959178618854665,75.79302867581993,68700,14,3.6,No,2019-08-15,27
+EMP0169,Priya Rao,Male,28,Technology,DevOps Engineer,Kolkata,West Bengal,East,22.560316797496135,88.37439694463828,83400,4,2.5,No,2019-01-14,15
+EMP0170,Kiran Joshi,Female,29,Technology,Data Analyst,Mumbai,Maharashtra,West,19.122207755611445,72.83943161994434,89400,8,2.2,Yes,2021-09-25,106
+EMP0171,Meera Rao,Male,33,Technology,Data Analyst,Ahmedabad,Gujarat,West,23.008464461798084,72.6096811952362,87900,7,2.4,Yes,2022-04-09,69
+EMP0172,Priya Choudhary,Female,35,Finance,Finance Manager,Mumbai,Maharashtra,West,19.11240848414695,72.90182523787165,71200,8,3.1,No,2022-02-27,12
+EMP0173,Arjun Menon,Male,31,Marketing,Brand Manager,Chennai,Tamil Nadu,South,13.129350826725036,80.28486944543988,57500,5,3.7,No,2020-10-03,72
+EMP0174,Amit Patel,Female,24,Technology,DevOps Engineer,Ahmedabad,Gujarat,West,23.056406849359497,72.5288330411443,78300,3,4.0,No,2023-06-24,114
+EMP0175,Divya Patel,Female,35,Sales,Sales Executive,Davanagere,Karnataka,South,14.47618352358768,75.93847547295533,56300,7,3.8,No,2018-02-07,88
+EMP0176,Amit Rao,Male,22,Delivery,Fleet Manager,Ahmedabad,Gujarat,West,23.02607381029239,72.55006885365333,27100,1,3.1,No,2022-08-12,74
+EMP0177,Girish Pillai,Male,38,Delivery,Fleet Manager,Mysuru,Karnataka,South,12.272532473667663,76.6290896422498,53900,13,3.7,Yes,2020-02-26,57
+EMP0178,Anil Gupta,Male,26,Operations,Supply Chain Analyst,Kolkata,West Bengal,East,22.56031695684843,88.36150051001319,48700,4,3.7,No,2018-11-27,91
+EMP0179,Riya Joshi,Male,23,Delivery,Delivery Executive,Bengaluru,Karnataka,South,13.011727295902459,77.61382877124515,37200,2,4.1,No,2019-01-26,82
+EMP0180,Anjali Desai,Male,36,HR,HR Executive,Ahmedabad,Gujarat,West,22.974065809519196,72.54211581154095,66200,15,2.7,No,2021-02-22,28
+EMP0181,Anil Nair,Male,41,Finance,Accountant,Mysuru,Karnataka,South,12.324849808523414,76.65833105411839,81300,15,3.2,No,2022-05-13,20
+EMP0182,Manoj Desai,Female,28,Delivery,Fleet Manager,Jaipur,Rajasthan,North,26.865362565894518,75.76463270286288,28600,1,4.4,No,2018-11-08,67
+EMP0183,Bhavna Singh,Male,34,Technology,DevOps Engineer,Ahmedabad,Gujarat,West,23.04381085326784,72.52960380096731,94200,9,2.5,No,2018-12-18,29
+EMP0184,Meera Verma,Male,24,Delivery,Dispatch Coordinator,Kolkata,West Bengal,East,22.558591749734692,88.34087664432394,37400,3,3.9,No,2019-03-13,26
+EMP0185,Shruti Hegde,Male,30,Technology,Tech Lead,Mumbai,Maharashtra,West,19.104443872425282,72.91407181772682,95100,8,2.8,Yes,2021-12-20,11
+EMP0186,Lavanya Gupta,Male,36,Operations,Logistics Head,Chennai,Tamil Nadu,South,13.049650174524517,80.24759189635301,64400,13,3.3,No,2020-09-21,44
+EMP0187,Swathi Menon,Female,27,Technology,Software Engineer,Ahmedabad,Gujarat,West,23.03188063980391,72.54095482248802,83100,3,3.4,No,2022-01-19,23
+EMP0188,Rohan Bhat,Female,35,HR,HR Executive,Delhi,Delhi,North,28.645447547000302,77.24495084671008,54400,7,4.1,No,2022-04-06,86
+EMP0189,Deepak Singh,Female,38,HR,HR Manager,Delhi,Delhi,North,28.596488623744293,77.18703001464642,58300,10,3.1,No,2021-07-31,110
+EMP0190,Swathi Verma,Male,36,HR,HR Executive,Kolkata,West Bengal,East,22.61689749154178,88.33486483963613,74200,15,3.6,No,2020-01-07,112
+EMP0191,Bhavna Gupta,Female,29,Finance,Finance Manager,Chennai,Tamil Nadu,South,13.040096513558229,80.3197700614437,60700,2,3.3,No,2020-10-31,71
+EMP0192,Sneha Singh,Male,31,Operations,Supply Chain Analyst,Lucknow,Uttar Pradesh,North,26.862460164458074,80.93170088194485,61900,9,3.2,No,2022-01-12,92
+EMP0193,Suresh Pillai,Female,37,Sales,Sales Lead,Lucknow,Uttar Pradesh,North,26.835813416867747,80.97343422324624,71400,13,4.2,Yes,2020-11-25,85
+EMP0194,Sneha Nair,Male,28,Marketing,SEO Specialist,Mysuru,Karnataka,South,12.280632865232148,76.62370666808435,57400,6,3.3,No,2021-04-25,110
+EMP0195,Bhavna Kumar,Female,27,Marketing,Brand Manager,Hyderabad,Telangana,South,17.337258511520314,78.47100779475568,64800,6,4.4,No,2018-10-03,23
+EMP0196,Suresh Singh,Female,42,Finance,Finance Analyst,Davanagere,Karnataka,South,14.494175578830426,75.93477603188788,84000,15,4.1,No,2019-10-18,33
+EMP0197,Sanjay Joshi,Male,28,Delivery,Fleet Manager,Davanagere,Karnataka,South,14.434978447936732,75.94703254953605,39500,7,3.4,No,2022-10-26,113
+EMP0198,Kiran Verma,Female,39,Marketing,Marketing Executive,Mumbai,Maharashtra,West,19.037395497070516,72.89477014282245,79800,13,2.1,Yes,2020-02-05,72
+EMP0199,Girish Mehta,Male,33,Delivery,Fleet Manager,Jaipur,Rajasthan,North,26.954268257980413,75.79631683649775,51400,10,2.8,No,2023-02-19,96
+EMP0200,Pooja Hegde,Female,31,HR,HR Executive,Delhi,Delhi,North,28.577686729853458,77.19737099628377,48000,4,2.9,Yes,2022-03-10,33
+EMP0201,Pallavi Pillai,Male,33,Delivery,Dispatch Coordinator,Ahmedabad,Gujarat,West,23.0676841950488,72.56986089194457,51800,12,2.7,Yes,2021-07-12,34
+EMP0202,Rahul Choudhary,Male,30,Marketing,Brand Manager,Kolkata,West Bengal,East,22.5256860705643,88.39000566185454,67100,7,3.2,No,2022-12-24,47
+EMP0203,Deepak Kumar,Male,31,HR,Recruiter,Bengaluru,Karnataka,South,12.94838889093929,77.5989106182093,57700,9,3.9,No,2023-07-22,56
+EMP0204,Meera Patel,Male,37,Finance,Finance Analyst,Jaipur,Rajasthan,North,26.907373234283043,75.77215769768223,83200,13,4.2,No,2022-10-08,114
+EMP0205,Bhavna Joshi,Female,36,Operations,Operations Executive,Mumbai,Maharashtra,West,19.107352986549543,72.90824404933703,66900,13,3.8,No,2022-10-20,82
+EMP0206,Pallavi Mishra,Female,35,Marketing,Content Writer,Pune,Maharashtra,West,18.568948830226176,73.87462993159234,73800,10,4.6,Yes,2021-04-13,22
+EMP0207,Sanjay Desai,Female,38,Finance,Accountant,Delhi,Delhi,North,28.646748180269864,77.235147358748,81000,15,4.9,Yes,2019-06-28,96
+EMP0208,Rajesh Reddy,Male,32,Operations,Operations Executive,Kolkata,West Bengal,East,22.562885077330183,88.38888023828731,61400,10,3.4,No,2022-03-17,98
+EMP0209,Bhavna Shah,Female,28,Operations,Logistics Head,Pune,Maharashtra,West,18.510171586818863,73.90351285800759,58500,6,4.7,No,2023-02-21,115
+EMP0210,Bhavna Desai,Male,34,Operations,Logistics Head,Hyderabad,Telangana,South,17.424415465803857,78.51292540224225,53600,6,3.5,No,2019-06-19,15
+EMP0211,Harish Mehta,Female,24,Delivery,Fleet Manager,Mumbai,Maharashtra,West,19.041897746290584,72.9209725562726,29000,1,3.9,No,2022-10-19,45
+EMP0212,Rajesh Mehta,Male,32,Delivery,Fleet Manager,Mumbai,Maharashtra,West,19.098598836347044,72.90322321570676,36400,5,3.3,No,2019-11-09,64
+EMP0213,Sanjay Desai,Male,22,Sales,Sales Executive,Davanagere,Karnataka,South,14.49611090269133,75.97061549094643,45500,1,3.1,No,2022-12-28,64
+EMP0214,Divya Mehta,Male,28,Technology,Tech Lead,Mysuru,Karnataka,South,12.259512929474354,76.66674604836506,77800,2,3.6,No,2019-02-24,106
+EMP0215,Rajesh Nair,Female,27,Delivery,Dispatch Coordinator,Delhi,Delhi,North,28.655889412465477,77.22060760126007,32100,3,3.4,No,2022-12-08,66
+EMP0216,Rohan Nair,Female,30,Sales,Sales Executive,Hyderabad,Telangana,South,17.35977863749636,78.50116205681879,48000,3,3.5,No,2022-04-22,41
+EMP0217,Swathi Gupta,Male,37,Marketing,Content Writer,Jaipur,Rajasthan,North,26.891954205124208,75.74275691310153,71400,13,4.1,No,2023-10-22,111
+EMP0218,Divya Desai,Male,23,Operations,Logistics Head,Hyderabad,Telangana,South,17.34819828807327,78.52278140039367,44900,2,2.7,No,2018-10-18,82
+EMP0219,Kiran Patel,Male,38,HR,Recruiter,Kolkata,West Bengal,East,22.614857928893322,88.40876799969472,68700,13,4.7,Yes,2018-10-04,60
+EMP0220,Meera Reddy,Female,29,HR,Payroll Specialist,Jaipur,Rajasthan,North,26.913530469829535,75.75761974939579,55600,7,3.2,Yes,2019-09-18,113
